@@ -3,7 +3,7 @@
   "version": "0.3.1",
   "description": "A javascript heap implementation",
   "main": "heap.js",
-  "homepage": "https://github.com/thauburger/js-heap",
+  "homepage": "https://github.com/pankaj-yadav0507/GJUTEST1",
   "scripts": {
     "test": "node test/test.js | node_modules/.bin/tap-spec"
   },
@@ -12,14 +12,14 @@
     "priority",
     "queue"
   ],
-  "author": "Tom Hauburger <thauburger@gmail.com>",
-  "license": "MIT",
+  "author": "panklaj_yadav0507 <pankajyaadav999@gmail.com>",
+  "license": "GJU",
   "devDependencies": {
     "tap-spec": "^1.0.0",
     "tape": "^3.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thauburger/js-heap"
+    "url": "https://github.com/pankaj-yadav0507/GJUTEST1/pankaj_13013065"
   }
 }
